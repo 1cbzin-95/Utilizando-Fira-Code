@@ -4,7 +4,7 @@ São fontes que servem apenas de estetica para quem trabalha com javascript ou d
 
 ## Como instalar  
 - 1ª Coisa a se fazer é baixar essa pastinha com as fontes, abra ela e localize a pasta ttf que esta as fontes.  
-- 2ª Coisa é clicar com mause e instalar as fontes ou dependendo da sua distro voçê tera que mover elas para o local das fontes do seu PC, mas normalmente ao clicar elas são instaladas.  
+- 2ª Coisa é clicar com mause e instalar as fontes ou dependendo da sua distro voçê tera que mover elas para o local das fontes do seu PC, mas normalmente ao clicar elas são instaladas, é recomendado instalar só a fira Bold.  
 - 3ª e ultima parte abra seu vscode siga para files/preferences/settings, aberto essa parte siga para TextEditor va descendo no scroll até encontrar até encontrar "edit settings.json", clique nele e edite acrescentando:  
 ```
  "editor.fontFamily": "'Fira Code'",
