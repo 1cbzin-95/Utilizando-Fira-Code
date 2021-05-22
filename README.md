@@ -7,7 +7,7 @@ São fontes que servem apenas de estetica para quem trabalha com javascript ou d
 - 2ª Coisa é clicar com mause e instalar as fontes ou dependendo da sua distro voçê tera que mover elas para o local das fontes do seu PC, mas normalmente ao clicar elas são instaladas, é recomendado instalar só a fira Bold.  
 - 3ª e ultima parte abra seu vscode siga para files/preferences/settings, aberto essa parte siga para TextEditor va descendo no scroll até encontrar até encontrar "edit settings.json", clique nele e edite acrescentando:  
 ```
- "editor.fontFamily": "'Fira Code'",
+ "editor.fontFamily": "Fira Code",
     "editor.fontLigatures": true
 ```  
 No final da estapa seu settings deve estar mais ou menos assim:  
@@ -17,7 +17,7 @@ No final da estapa seu settings deve estar mais ou menos assim:
     "workbench.iconTheme": "material-icon-theme",
     "git.autofetch": true,
     "editor.codeActionsOnSave": null,
-    "editor.fontFamily": "'Fira Code'",
+    "editor.fontFamily": "Fira Code",
     "editor.fontLigatures": true
 }
 ```  
